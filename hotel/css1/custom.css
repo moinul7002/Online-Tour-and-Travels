@@ -1,0 +1,46 @@
+body { padding-top:7%; }
+.panel-body .btn:not(.btn-block) { width:120px;margin-bottom:10px; 
+
+#pad{
+
+	padding:20px; 
+}
+.cart-button1{
+
+    margin-left:50px; 
+    background-color:#D0D3D4;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .23), inset 1px 1px 0 0 hsla(0, 0%, 50%, .1);
+    padding: 10px 0;
+    text-align: center;
+    height: 41px;
+    border-radius: 2px;
+    font-weight: 600;
+    width: 300px;
+    display: inline-block;
+    color: #FFFFFF;
+    text-decoration: none;
+    color: inherit;
+    border: none;
+    outline: none;
+    font-color:black;
+
+
+}
+.cart-button1:hover{
+    text-decoration: none;
+    background-color:yellow;
+    cursor: pointer;
+    color:black;
+}
+.menue
+{
+
+height:400px;
+margin-top:10px;
+
+}
+
+#aaa{
+
+    color:black;
+}
